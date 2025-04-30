@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AIMEdashboards/static/css/main.5d93e17f.css",
+    "main.js": "/AIMEdashboards/static/js/main.a4e983cd.js",
+    "index.html": "/AIMEdashboards/index.html",
+    "main.5d93e17f.css.map": "/AIMEdashboards/static/css/main.5d93e17f.css.map",
+    "main.a4e983cd.js.map": "/AIMEdashboards/static/js/main.a4e983cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d93e17f.css",
+    "static/js/main.a4e983cd.js"
+  ]
+}
