@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/AIMEdashboards/static/css/main.e310d12b.css",
-    "main.js": "/AIMEdashboards/static/js/main.088a3b75.js",
+    "main.css": "/AIMEdashboards/static/css/main.5693e050.css",
+    "main.js": "/AIMEdashboards/static/js/main.4bc57a26.js",
     "index.html": "/AIMEdashboards/index.html",
-    "main.e310d12b.css.map": "/AIMEdashboards/static/css/main.e310d12b.css.map",
-    "main.088a3b75.js.map": "/AIMEdashboards/static/js/main.088a3b75.js.map"
+    "main.5693e050.css.map": "/AIMEdashboards/static/css/main.5693e050.css.map",
+    "main.4bc57a26.js.map": "/AIMEdashboards/static/js/main.4bc57a26.js.map"
   },
   "entrypoints": [
-    "static/css/main.e310d12b.css",
-    "static/js/main.088a3b75.js"
+    "static/css/main.5693e050.css",
+    "static/js/main.4bc57a26.js"
   ]
 }
